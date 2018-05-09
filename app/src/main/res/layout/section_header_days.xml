@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="5dp"
+    android:background="@color/colorAccent">
+
+    <TextView
+        android:id="@+id/tv_header_day"
+        android:layout_width="318dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/day_x"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="20dp"/>
+
+    <Button
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:background="@drawable/ic_add_white_24dp" />
+
+</LinearLayout>
