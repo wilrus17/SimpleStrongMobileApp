@@ -4,4 +4,5 @@
     <string name="description">Description</string>
     <string name="routine_title">Routine Title</string>
     <string name="day_x">Day X</string>
+    <string name="name">Name</string>
 </resources>
