@@ -14,12 +14,13 @@
     <android.support.design.widget.TabLayout
         android:id="@+id/tablayout_id"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@color/colorPrimary"
+        android:layout_height="60dp"
+        android:background="@color/colorPrimaryLight"
         app:tabGravity="fill"
-        app:tabIndicatorColor="@color/tabindicatorcolor"
+        app:tabIndicatorColor="@color/colorSecondary"
         app:tabMode="fixed"
-        app:tabTextColor="@color/tabtextcolor" />
+        app:tabTextColor="@color/textOnPrimary"
+        app:tabIndicatorHeight="4dp"/>
 
     <android.support.v4.view.ViewPager
         android:id="@+id/viewpager_id"

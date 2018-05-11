@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimary">#263238</color>
+    <color name="colorPrimaryDark">#000a12</color>
+    <color name="colorPrimaryLight">#4f5b62</color>
     <color name="colorAccent">#FF4081</color>
     <color name="tabtextcolor">#fff</color>
     <color name="tabindicatorcolor">#2d2d2d</color>
+    <color name="colorSecondary">#80cbc4</color>
+    <color name="colorSecondaryDark">#4f9a94</color>
+    <color name="colorSecondaryLight">#b2fef7</color>
+    <color name="textOnPrimary">#f9f9f9</color>
+    <color name="textOnSecondary">#000000</color>
 </resources>

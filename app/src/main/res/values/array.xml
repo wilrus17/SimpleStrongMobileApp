@@ -11,4 +11,9 @@
         <item>Abs</item>
         <item>Cardio</item>
     </string-array>
+
+    <string-array name="spinnerSetUnit">
+        <item>Kg</item>
+        <item>Lb</item>
+    </string-array>
 </resources>
